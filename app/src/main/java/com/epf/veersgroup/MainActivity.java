@@ -317,7 +317,7 @@ public class MainActivity extends AppCompatActivity
 //      Change the reference based on the tablet device below
         rootNode = FirebaseDatabase.getInstance();
 //        reference = rootNode.getReference("user-0007");
-        reference = rootNode.getReference("user-test-latest");
+        reference = rootNode.getReference("user-test-last");
 
 //      This is extracting the information from the shared preference and creating an editor to allow for cache clearing
         SharedPreferences Sprefs = getApplicationContext().getSharedPreferences("prefName", Context.MODE_PRIVATE);
