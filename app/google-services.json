@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "232105509296",
+    "project_id": "veersgroup-277c4",
+    "storage_bucket": "veersgroup-277c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232105509296:android:9cbfda2f402eb9a5c85675",
+        "android_client_info": {
+          "package_name": "com.epf.veersgroup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232105509296-4m2c2nlrjff408rg4p7b797sbtvf79pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvdj5Lc1ZTq7CyWq5Jsz6FR3_zyF7VMKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232105509296-4m2c2nlrjff408rg4p7b797sbtvf79pq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
